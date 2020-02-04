@@ -1,0 +1,6 @@
+.vs/
+.spyproject/
+.ipynb_checkpoints/
+__pycache__
+debug.log
+geckodriver.log
